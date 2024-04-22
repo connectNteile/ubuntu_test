@@ -1,0 +1,9 @@
+Congratulation and welcome to text editing with Vim in Linux.
+
+
+Keep Practising to master the concepts and get use to it.
+
+Note: This Editor is called Vim and can be accessed by typing vi.
+
+
+Good Job. 

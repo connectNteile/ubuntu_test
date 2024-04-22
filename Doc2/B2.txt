@@ -1,0 +1,24 @@
+This particular file belongs to Directory called Doc2.
+
+We are currently using Nano to create this content.
+
+Nano is quite interesting but i personally prefer to use Vim.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vim is another type of Editor.
+We can access Vim by typing vi
+we can access nano by typing nano.
+

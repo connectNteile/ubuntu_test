@@ -1,0 +1,20 @@
+This is nano editor, which is similar to vim but its more flexible than vim.
+
+It comes with more options and capacity to enable you create your document convinently.
+
+
+Nano is more powerful and provides more productivity options.
+
+
+
+
+
+
+
+
+
+
+But personally, i prefer  the vim editor has it is simple and rigid to use.
+
+
+Thanks
